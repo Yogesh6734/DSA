@@ -1,4 +1,4 @@
-package com.yogesh;
+package com.BinarySearch;
 
 import java.util.Scanner;
 
