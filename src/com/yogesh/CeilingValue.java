@@ -3,7 +3,7 @@ package com.yogesh;
 public class CeilingValue {
     public static void main(String[] args) {
         int[] arr= {12,14,15,18,19,20,22,24,30};
-        int target= 31;
+        int target= 20;
         System.out.println(ceilingValue(arr,target));
         System.out.println(floorValue(arr,target));
     }
