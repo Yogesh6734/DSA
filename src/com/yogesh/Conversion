@@ -1,0 +1,21 @@
+Character to string
+char ch = 'a';
+String str = String.valueOf(ch);
+System.out.println(str);  // Output: a
+
+char ch = 'a';
+String str = Character.toString(ch);
+System.out.println(str);  // Output: a
+
+char ch = 'a';
+String str = ch + "";
+System.out.println(str);  // Output: a
+
+Integer to character
+int asciiValue = 97;
+char character = (char) asciiValue;
+
+character to integer
+int a= (int)ch
+
+Integer.bitCount (tells number o set bits)
